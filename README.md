@@ -24,8 +24,9 @@ Additionally, the application incorporates SMS and email notifications to enhanc
 
 #### Languages
 
-- JAVA - (Used for application logic)
-- HTML / CSS - (Used for user interface development)
+- Java - (Used for application logic)
+- Javascript - (Used for user interface improvements)
+- Html / Css - (Used for user interface development)
 
 #### Third Party Libraries and Utils
 
